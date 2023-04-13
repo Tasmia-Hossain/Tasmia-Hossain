@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Tasmia Hossain.
+### Hi there 👋 
+
+I am Tasmia Hossain, an undergraduate student of Computer Science and Engineering at Ahsanullah University of Science and Technology. I like problem-solving and exploring different fields of computer programming.
 
 Skills: C / C++ / JAVA/ HTML
 
