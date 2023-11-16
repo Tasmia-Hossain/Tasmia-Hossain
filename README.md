@@ -13,3 +13,4 @@ Skills: C / C++ / JAVA/ HTML
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasmia-Hossain)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Tasmia-Hossain)  
+![](https://komarev.com/ghpvc/?username=Tasmia-Hossain&color=green)
