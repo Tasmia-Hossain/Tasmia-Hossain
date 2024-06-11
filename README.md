@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasmia Hossain</h1>
 
-![](https://komarev.com/ghpvc/?username=Tasmia-Hossain&color=green)
+![](https://komarev.com/ghpvc/?username=Tasmia-Hossain&color=blue)
 
 - 📫 How to reach me **tasmiahossainkashfia@gmail.com**
 
