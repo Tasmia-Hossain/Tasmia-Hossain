@@ -3,7 +3,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/Tasmia-Hossain/Tasmia-Hossain/main/assets/header-banner.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Graduate;Aspiring+.NET+Backend+Developer;Building+Backend+Applications+with+C%23;Passionate+About+Clean+Architecture;Open+to+Internship+%26+Full-Time+Opportunities)](https://git.io/typing-svg)
-
 <br>
 
 <a href="mailto:tasmiahossain360@gmail.com">
@@ -19,7 +18,6 @@
 <a href="https://github.com/Tasmia-Hossain">
   <img src="https://komarev.com/ghpvc/?username=Tasmia-Hossain&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS"/>
 </a>
-
 </div>
 
 ## 💫 About Me
