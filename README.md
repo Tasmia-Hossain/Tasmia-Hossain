@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:2563EB&text=Tasmia%20Hossain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20.NET%20Backend%20Developer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://raw.githubusercontent.com/Tasmia-Hossain/Tasmia-Hossain/main/assets/header-banner.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Graduate;Aspiring+.NET+Backend+Developer;Building+Backend+Applications+with+C%23;Passionate+About+Clean+Architecture;Open+to+Internship+%26+Full-Time+Opportunities)](https://git.io/typing-svg)
 
@@ -118,6 +118,6 @@ Feel free to reach out — I'd love to talk about opportunities, tech, or just c
 
 *"Learning every day. Building one project at a time."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,100:0F172A&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Tasmia-Hossain/Tasmia-Hossain/main/assets/footer-banner.svg"/>
 
 </div>
