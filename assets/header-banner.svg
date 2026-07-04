@@ -1,0 +1,52 @@
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Tasmia Hossain header banner</title>
+<desc>Dark professional banner with a circuit board trace pattern, animated pulses of light flowing along the traces, and centered name and title text</desc>
+<defs>
+<linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0B1220"/>
+<stop offset="100%" stop-color="#111C33"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="300" fill="url(#cbg)"/>
+<g stroke="#2C4A73" stroke-width="1.5" fill="none" opacity="0.55">
+<path d="M0 60 H140 L170 90 H320"/>
+<path d="M0 220 H180 L210 190 H340"/>
+<path d="M320 90 V150"/>
+<path d="M340 190 V150"/>
+<path d="M320 150 H340"/>
+<path d="M1200 60 H1060 L1030 90 H880"/>
+<path d="M1200 220 H1020 L990 190 H860"/>
+<path d="M880 90 V150"/>
+<path d="M860 190 V150"/>
+<path d="M860 150 H880"/>
+<path d="M170 90 V40"/>
+<path d="M210 190 V260"/>
+<path d="M1030 90 V40"/>
+<path d="M990 190 V260"/>
+</g>
+<g fill="#3B82F6" opacity="0.7">
+<circle cx="140" cy="60" r="3"/><circle cx="170" cy="90" r="3"/><circle cx="180" cy="220" r="3"/><circle cx="210" cy="190" r="3"/>
+<circle cx="320" cy="90" r="3"/><circle cx="340" cy="190" r="3"/><circle cx="170" cy="40" r="3"/><circle cx="210" cy="260" r="3"/>
+<circle cx="1060" cy="60" r="3"/><circle cx="1030" cy="90" r="3"/><circle cx="1020" cy="220" r="3"/><circle cx="990" cy="190" r="3"/>
+<circle cx="880" cy="90" r="3"/><circle cx="860" cy="190" r="3"/><circle cx="1030" cy="40" r="3"/><circle cx="990" cy="260" r="3"/>
+</g>
+<circle r="4" fill="#67E8F9">
+<animateMotion dur="3.5s" repeatCount="indefinite" path="M0 60 H140 L170 90 H320 V150 H340 V190 L210 190 H180 V220"/>
+</circle>
+<circle r="4" fill="#67E8F9">
+<animateMotion dur="4s" begin="1.2s" repeatCount="indefinite" path="M1200 60 H1060 L1030 90 H880 V150 H860 V190 L990 190 H1020 V220"/>
+</circle>
+<circle r="4" fill="#93C5FD">
+<animateMotion dur="3s" begin="0.6s" repeatCount="indefinite" path="M170 40 V90 H320"/>
+</circle>
+<circle r="4" fill="#93C5FD">
+<animateMotion dur="3.2s" begin="1.8s" repeatCount="indefinite" path="M1030 40 V90 H880"/>
+</circle>
+<rect x="290" y="70" width="620" height="180" rx="16" fill="#0A1122" opacity="0.5" stroke="#2C4A73" stroke-width="1"/>
+<text x="600" y="158" font-family="Arial, sans-serif" font-size="50" font-weight="700" fill="#F1F5F9" text-anchor="middle">Tasmia Hossain</text>
+<text x="600" y="195" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#94A3B8" text-anchor="middle">Aspiring .NET Backend Developer</text>
+<line x1="480" y1="215" x2="720" y2="215" stroke="#2563EB" stroke-width="1" opacity="0.6"/>
+<circle cx="480" cy="215" r="3" fill="#2563EB">
+<animate attributeName="cx" values="480;720;480" dur="3s" repeatCount="indefinite"/>
+</circle>
+</svg>
